@@ -45,7 +45,7 @@ The application will download the model automatically.
 
 
     ```bash
-    python app.py
+python app.py
 
 
 
