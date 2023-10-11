@@ -10,10 +10,6 @@ This Flask web application allows users to upload images for cartoonization. It 
 - [Model Download](#model-download)
 - [Running the App](#running-the-app)
 - [Usage](#usage)
-- [Known Issues and Troubleshooting](#known-issues-and-troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
@@ -47,10 +43,13 @@ The application will download the model automatically.
 
 ## Running the App
 
-   ```bash
-   python app.py
 
-## Usuage
+    ```bash
+    python app.py
+
+
+
+## Usage
 
 The app will run on http://localhost:5000 by default.
 
