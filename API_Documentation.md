@@ -37,7 +37,4 @@ This API provides image-to-cartoon conversion functionality. Users can register,
 ## Authentication
 - Authentication for protected resources is token-based. Users obtain a token by logging in, and they must include the token in the request headers for protected resource access.
 
-## Examples
-- Registration example:
-  ```bash
-  curl -X POST http://your-server/register -d "username=user1&password=pass123"
+
