@@ -44,8 +44,8 @@ The application will download the model automatically.
 ## Running the App
 
 
-    ```bash
-python app.py
+    
+ python app.py
 
 
 
@@ -59,7 +59,7 @@ Log In: After registration, log in with your credentials to obtain an access tok
 
 Upload an Image: Use the access token to upload an image for cartoonization.
 
-Model Download: If the pre-trained model is not available, the app will automatically download it when you run the app for the first time.
+
 
 
 
